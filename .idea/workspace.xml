@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfcf54ce-3cc2-4641-8214-720bfff75200" name="Changes" comment="" />
+    <list default="true" id="cfcf54ce-3cc2-4641-8214-720bfff75200" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/services/BrazilTaxService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/services/BrazilTaxService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/services/RentalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/services/RentalService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +18,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -30,6 +38,8 @@
     "Application.Main.executor": "Run",
     "Application.Program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/bercorrea/Documentos/ProjetosJava/CursoJava/DataHora",
     "node.js.detected.package.eslint": "true",
@@ -58,6 +68,7 @@
       <updated>1740325217299</updated>
       <workItem from="1740325218357" duration="944000" />
       <workItem from="1740326267883" duration="6844000" />
+      <workItem from="1740336493588" duration="605000" />
     </task>
     <servers />
   </component>
